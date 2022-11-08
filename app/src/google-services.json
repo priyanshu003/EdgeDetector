@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "617699132970",
+    "project_id": "edge-detection-37cee",
+    "storage_bucket": "edge-detection-37cee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617699132970:android:35317c8c72e42c6569a553",
+        "android_client_info": {
+          "package_name": "com.project.edgedetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617699132970-u5jr2472tf8u1lkspsme2ame84i11ik2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.edgedetector",
+            "certificate_hash": "6832e1f8aded5b39141e6fb020a4b3acee31f65e"
+          }
+        },
+        {
+          "client_id": "617699132970-i8begcsf9hevd3q1cf66cusglgcfduqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMo-UhDm9sX9HnuypyRmJuqtype3lvYnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617699132970-i8begcsf9hevd3q1cf66cusglgcfduqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

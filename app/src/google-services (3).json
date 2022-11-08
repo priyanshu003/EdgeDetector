@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "963695097317",
+    "project_id": "edgedetector-cf15b",
+    "storage_bucket": "edgedetector-cf15b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963695097317:android:12846fb07ecee9d8996b0c",
+        "android_client_info": {
+          "package_name": "com.project.edgedetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963695097317-cpspr1p7mh73au2applqqa6nkd5kdms0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfzspYiM1-AZ59zveiuFOqL1tYbJe6ZRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963695097317-cpspr1p7mh73au2applqqa6nkd5kdms0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

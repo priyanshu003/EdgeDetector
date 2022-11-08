@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Edge Detector</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="title">Hey there, Upload your image here.</string>
+    <string name="process">Start Processing</string>
+    <string name="title_activity_processing">Processing</string>
+    <string name="text_view_of_processing_activity">Edge detection Result</string>
+    <string name="fetch_image">Fetch</string>
+    <string name="save_to_firebase">Save to firebase</string>
+    <string name="wanna_enter_image_url">wanna enter image URL ?</string>
+    <string name="enter_image_url">Enter image Url</string>
+    <string name="hyperlink">Made with love ❤ by<a href="https://github.com/priyanshu003">Priyanshu</a></string>
+</resources>
